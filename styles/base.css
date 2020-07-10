@@ -1,22 +1,22 @@
 
 
+html {
+	background-color: rgb(8, 183, 226);
+}
 
 body {
-	background-color: rgb(8, 183, 226);
-	color: white;
+	background-color:white;
+	color: black;
 	font-family: georgia;
 	margin-left: 20%;
 	margin-right: 20%;
 }
 
 h1 {
-	color: white;
 	text-align: center;
 }
 
 p {
-	color: white;
-	
 	font-size: 20px;
 }
 
@@ -30,9 +30,6 @@ li{
 	/* define mobile specific styles come here */
 
 	body {
-		background-color: rgb(8, 183, 226);
-		color: white;
-		font-family: georgia;
 		margin-left: 3%;
 		margin-right: 3%;
 	}
