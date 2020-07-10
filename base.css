@@ -24,3 +24,16 @@ li{
 	margin: 8px 0;
 	list-style-type: none;
 }
+
+   
+@media only screen and (max-device-width: 480px) {
+	/* define mobile specific styles come here */
+
+	body {
+		background-color: rgb(8, 183, 226);
+		color: white;
+		font-family: georgia;
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+  }
